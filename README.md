@@ -18,7 +18,8 @@ The requirements to follow the exercises in this repository are low, nevertheles
 
 - Getting Started
 You can logon to SAP Business Transformation Center using the following URL: [SAP Business Transformation Center](https://dt161-vygek9xc.eu10.alm.cloud.sap)
-As logon user and password please use the following username & password. Please replace “###” with your group id (displayed at your table):
+
+   As logon user and password please use the following username & password. Please replace “###” with your group id (displayed at your table):
    - User: DT161_###
    - Password: Acce$$teched23
      
