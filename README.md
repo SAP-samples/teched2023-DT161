@@ -4,7 +4,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2022 session called DT161 - Simplified Selective Data Transition.  
+This repository contains the material for the SAP TechEd 2023 session called DT161 - Simplified Selective Data Transition.  
 
 ## Overview
 
