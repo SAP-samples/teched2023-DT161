@@ -1,4 +1,4 @@
-[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2023-DT161)](https://api.reuse.software/info/github.com/SAP-samples/teched2023-DT161)
+
 
 # DT161 - Simplified Selective Data Transition 
 
