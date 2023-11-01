@@ -105,7 +105,7 @@ The requirements to follow the exercises in this repository are low, nevertheles
     - Step 7.1. – Start the Digital Blueprint Overview
       - Click on the fiori app “Digital Blueprint Overview” and select your Digital Blueprint name with your Group ID created in Exercise 2 from the dropdown list
       - Navigate through the cards of the Digital Blueprint Overview and explore the results of you previously done scoping decision
-    - Q12: How many percent is the overall data footprint reduction resulting from your scoping decision?   
+    - Q12: How many percent is the overall data footprint reduction resulting from your transformation object scoping decision?   
     - Step 7.2. – Confirm the Digital Blueprint
       - As a last step, manifest your scoping activities within the Digital Blueprint by setting the status to “Completed”
       - Click on the fiori app “Manage Digital Blueprints” and select your Digital Blueprint name with your group ID created in Exercise 2 from the dropdown list to jump into the details view
