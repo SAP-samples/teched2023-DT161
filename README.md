@@ -67,7 +67,7 @@ The requirements to follow the exercises in this repository are low, nevertheles
       - Alternatively, choose the App “Select Company Codes” from the Launchpad overview and select your Digital Blueprint ID and press the "Go" button
     - Step 4.2 – Set company codes out of scope
       - Select only company codes with a last activity greater equal 2022 independent whether there are open items or not by utilizing the settings of the company code list view as well as filtering and sorting
-      - Set all other company codes with a last activity smaller than 2022 or without any activity to “Out of Scope” by using the button “Mass Edit”
+      - Set all other company codes with a last activity smaller than 2022 or without any activity to “Out of Scope” by using the button “Mass Edit”. Enter a comment, that those company codes are not relevant anymore due to inactivity.
     - Step 4.3 – Check details of a company code
       - Click on the company code “BE01” to jump into the details of the company code
       - Browse through the details of the company code
