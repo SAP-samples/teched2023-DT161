@@ -99,7 +99,7 @@ The requirements to follow the exercises in this repository are low, nevertheles
    -  Step 6.3 – Set transformation objects out of scope
       - For business purposes, the management of real estate processes shall not be done in SAP S/4HANA. It is not known if this component is used at all in the ECC source system
       - Check if the application component “RE” contains usage data at all by utilizing the given filtering capabilities
-      - Set the whole application component “RE” out of scope by using the “mass edit” option in the list overview and set the status value to “Confirmed”
+      - Set the whole application component “RE” out of scope by using the “mass edit” option in the list overview and set the status value to “Confirmed”. Enter a comment that application component "RE" is no longer used in the future SAP S/4HANA environment.
 
 - Exercise 7 – Review your scoping decision and confirm the Digital Blueprint
     - Step 7.1. – Start the Digital Blueprint Overview
